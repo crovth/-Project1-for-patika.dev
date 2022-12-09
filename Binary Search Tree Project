@@ -1,0 +1,15 @@
+Root 5'dir root'un sağında 5 den buyuk sayilar solunda 5 den kucuk sayilar bulunur
+
+                5           
+             /     \
+            /       \
+           3         8        
+          / \        / \
+         /   \      /   \
+        1     4    6     9    
+       /  \         \
+      /    \         \
+     0       2        7   
+     
+     
+     
