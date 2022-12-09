@@ -1,1 +1,1 @@
-# -Project1-for-patika.dev
+https://www.patika.dev/
